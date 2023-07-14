@@ -1,7 +1,11 @@
-### This is a gzip based LLM 
+## GziPT - a gzip based LLM 
 
-This project is forked from https://github.com/bazingagin/npc_gzip
+The code is forked from https://github.com/bazingagin/npc_gzip
 Read the og paper: [ACL2023](https://aclanthology.org/2023.findings-acl.426/).
+
+The main concept is to gzip the previous (long) context and feed it into the LLM together with raw tokens
+
+![GziPT](./content/GziPT-001.jpg "Fig.1")
 
 ### Require
 
