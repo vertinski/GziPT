@@ -1,4 +1,4 @@
-## GziPT - a gzip based LLM 
+## GziPT - a gzip based LLM 🍦
 
 The code is forked from https://github.com/bazingagin/npc_gzip
 Read the og paper: [ACL2023](https://aclanthology.org/2023.findings-acl.426/).
