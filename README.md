@@ -1,6 +1,7 @@
-### Code for Paper: “Low-Resource” Text Classification: A Parameter-Free Classification Method with Compressors
+### This is a gzip based LLM 
 
-This paper is accepted to Findings of [ACL2023](https://aclanthology.org/2023.findings-acl.426/).
+This project is forked from https://github.com/bazingagin/npc_gzip
+Read the og paper: [ACL2023](https://aclanthology.org/2023.findings-acl.426/).
 
 ### Require
 
